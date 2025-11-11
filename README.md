@@ -2,21 +2,23 @@
 
 🚀 Project Overview
 
-This Sales Performance Dashboard was developed using Microsoft Power BI to provide a comprehensive view of sales metrics across multiple dimensions — product categories, territories, months, and employees.
+This project focuses on designing and developing an interactive Sales Performance Dashboard in Power BI to help business stakeholders analyze product performance, sales trends, and territory-based revenue distribution. The dashboard aggregates data from Sales Order, Customer, Product, and Sales Territory tables to create a unified analytical view for decision-making.
 
-The dashboard enables business users to monitor performance trends, analyze total sales, and identify top-performing regions and products using an interactive and data-driven interface.
+The solution allows users to:
 
-🧠 Key Insights
+Monitor Total Sales, Average Order Value, and Total Number of Orders
 
-Total Sales: 20.06M
+Compare Sales by Product Category
 
-Average Order Value: 1.71K
+Analyze Sales Trends Month-over-Month
 
-Total Orders: 62K
+Identify Top Performing Sales Representatives
 
-Top Performing Territories: Southwest, Northwest, and Canada
+Visualize Sales Contribution by Territory through dynamic pie charts and filters
 
-Highest Sales Month: April
+Filter reports by year and product category for detailed drill-down insights
+
+The dashboard is optimized for user interactivity using slicers, tooltips, and responsive layout design.
 
 🎯 Dashboard Features
 
